@@ -26,7 +26,7 @@
                 Coach and a Robot!</a></li>
           </ul>
           <div id="image01" class="image"><span class="deferred" style="background-image: none; background-size: 100% 100%; background-position: left top; background-repeat: no-repeat;"><img
-                src="./index_files/image01.jpg" data-src="done" alt="" style="opacity: 1; transition: opacity 0.375s ease-in-out 0s;"></span></div>
+                src="index_files/image01.jpg" data-src="done" alt="" style="opacity: 1; transition: opacity 0.375s ease-in-out 0s;"></span></div>
           <h1 id="text01"><strong>The Top 5 Reasons To Hire Coach Culbertson</strong></h1>
           <hr id="divider01">
           <p id="text02"><strong>And here they are!</strong></p>
